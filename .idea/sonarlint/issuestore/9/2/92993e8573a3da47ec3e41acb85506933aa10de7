@@ -3,3 +3,5 @@ t
 java:S2293,"YReplace the type specification in this constructor call with the diamond operator ("<>").(ËùÛñúÿÿÿÿ
 Q	java:S125"<This block of commented-out lines of code should be removed.(üÛÞ
 Q	java:S125"<This block of commented-out lines of code should be removed.(¾ùƒ 
+R
+java:S1128"5Remove this unused import 'com.binar.chapter7.model'.(¶üÛµ8Èè¯ìÕ0

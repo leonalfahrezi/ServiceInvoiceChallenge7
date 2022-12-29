@@ -5,16 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="83242a72-2e63-4c5c-8342-53be6d1decfe" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/jpa-buddy.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jpa-buddy.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/5/25a30a3031b7da8249d7ff67c5ef435f5a52184e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/5/859e0a11492bbbb2fbf47fca3ff83babe3548f1b" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/2/92993e8573a3da47ec3e41acb85506933aa10de7" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ServiceInvoice.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/binar/chapter7/configuration/SwaggerConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/binar/chapter7/configuration/SwaggerConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/binar/chapter7/service/UsersServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/binar/chapter7/service/UsersServiceImpl.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,16 +48,16 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "D:/BACK END JAVA/Latihan Java/Challenge or Tugas/Challenge_7/ServiceKafka"
+    "last_opened_file_path": "D:/BACK END JAVA/Latihan Java/Challenge or Tugas/Challenge_7/ServiceInvoice/src/main/java/com/binar/chapter7/model"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\BACK END JAVA\Latihan Java\Challenge or Tugas\Challenge_7\ServiceInvoice\src\main\java\com\binar\chapter7\model" />
       <recent name="D:\BACK END JAVA\Latihan Java\Challenge or Tugas\Challenge_7\ServiceInvoice\src\main\resources" />
       <recent name="D:\BACK END JAVA\Latihan Java\Challenge or Tugas\Challenge_7\ServiceInvoice" />
       <recent name="D:\BACK END JAVA\Latihan Java\Challenge or Tugas\Challenge_7\ServiceInvoice\src\main\java\com\binar\chapter7\service" />
       <recent name="D:\BACK END JAVA\Latihan Java\Challenge or Tugas\Challenge_7\ServiceInvoice\src\main\java\com\binar\chapter7\repository" />
-      <recent name="D:\BACK END JAVA\Latihan Java\Challenge or Tugas\Challenge_7\ServiceInvoice\src\main\java\com\binar\chapter7\model" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="com.binar.chapter7.model" />

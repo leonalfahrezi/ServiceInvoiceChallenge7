@@ -17,8 +17,6 @@ public class UsersServiceImpl implements UsersService {
 
     @Autowired
     UsersRepository usersRepository;
-    @Autowired
-    PasswordEncoder passwordEncoder;
 
     @Override
     public List<Users> getUser() {
@@ -35,11 +33,7 @@ public class UsersServiceImpl implements UsersService {
         Users update = usersRepository.getUsersById(usersRequest.getId());
         if (update == null) {
             logger.info("User not registered yet, please try again");
-        } else
-            update.setUsername(usersRequest.getUsername());
-            update.setEmail(usersRequest.getEmail());
-            update.setPassword(passwordEncoder.encode(usersRequest.getPassword()));
-            usersRepository.updateUser(update.getUsername(), update.getEmail(), update.getPassword());
+        }
     }
 
     @Override
